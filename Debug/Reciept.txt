@@ -1,0 +1,10 @@
+	 Hotdog Corner
+	 Mini POS
+Orders: 
+ChickenDog on Stick 6 18 108
+Bottled Water 2 15 30
+Bottled Water 2 15 30
+Discount: 0.05
+VAT: 12%
+SubTotal: 168
+GrandTotal: 178.752

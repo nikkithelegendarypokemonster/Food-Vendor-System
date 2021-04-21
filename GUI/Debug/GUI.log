@@ -1,0 +1,39 @@
+﻿Build started 3/20/2019 9:22:01 AM.
+     1>Project "D:\GUI - Copy (2)\GUI\GUI.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\GUI.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\GUI.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.DataVisualization.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Add_Inventory.cpp GUI.cpp Interface.cpp LOCK_DIALOG.cpp SignUp.cpp admin_DASHBOARD.cpp clear_window.cpp /clr:nostdlib 
+         Add_Inventory.cpp
+         GUI.cpp
+         Interface.cpp
+         LOCK_DIALOG.cpp
+         SignUp.cpp
+         admin_DASHBOARD.cpp
+         clear_window.cpp
+         Generating Code...
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GUI - Copy (2)\Debug\GUI.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Debug\GUI.Add_Inventory.resources /ASSEMBLYRESOURCE:Debug\GUI.admin_DASHBOARD.resources /ASSEMBLYRESOURCE:Debug\GUI.clear_window.resources /ASSEMBLYRESOURCE:Debug\GUI.Delete_Dialog.resources /ASSEMBLYRESOURCE:Debug\GUI.Form1.resources /ASSEMBLYRESOURCE:Debug\GUI.Interface.resources /ASSEMBLYRESOURCE:Debug\GUI.LOCK_DIALOG.resources /ASSEMBLYRESOURCE:Debug\GUI.SignUp.resources /MANIFEST /ManifestFile:"Debug\GUI.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\GUI - Copy (2)\Debug\GUI.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\Add_Inventory.obj
+         Debug\admin_DASHBOARD.obj
+         Debug\AssemblyInfo.obj
+         Debug\clear_window.obj
+         Debug\Delete_Dialog.obj
+         Debug\GUI.obj
+         Debug\Interface.obj
+         Debug\LOCK_DIALOG.obj
+         Debug\SignUp.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+     1>LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(268,5): warning MSB4220: Waiting for the currently executing task "Link" to cancel.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(268,5): warning MSB4220: Waiting for the currently executing task "Link" to cancel.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(268,5): warning MSB4220: Waiting for the currently executing task "Link" to cancel.

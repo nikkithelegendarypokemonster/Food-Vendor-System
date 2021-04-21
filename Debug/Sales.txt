@@ -1,0 +1,4 @@
+HotdogSandwich 6
+ChickenDog 10
+HotdogWaffle 7
+BottledWater 12

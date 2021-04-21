@@ -1,0 +1,6 @@
+Hotdog 183
+Buns 94
+ChickenDog 97
+Sticks 91
+BottledWater 168
+PancakeMix 93

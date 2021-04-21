@@ -1,0 +1,8 @@
+	 Hotdog Corner
+	 Mini POS
+Orders: 
+ChickenDog on Stick 3 18 54
+Discount: 0.03
+VAT: 0.0
+SubTotal: 54
+GrandTotal: 52.38
