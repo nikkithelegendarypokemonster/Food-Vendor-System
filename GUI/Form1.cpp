@@ -25,7 +25,7 @@ private: System::Void sign_up_Click(System::Object^  sender, System::EventArgs^ 
 private: System::Void button1_Click(System::Object^  sender, System::EventArgs^  e) {
 			 String ^ Id=this->id->Text;
 			 String ^ Pass=this->pass->Text;
-			 if(Id=="ronald" && Pass=="apenis"){
+			 if(Id=="ronald" && Pass=="apines"){
 				 bar->Visible=true;
 				 this->bar->ForeColor = System::Drawing::Color::DeepSkyBlue;
 				 this->timer1->Start();
